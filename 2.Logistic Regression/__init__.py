@@ -1,0 +1,2 @@
+# -*- coding: gbk -*-
+# author: ÖÜ¼Îéª
