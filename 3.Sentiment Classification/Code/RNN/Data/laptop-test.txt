@@ -1,0 +1,654 @@
+892:1	Boot time is super fast, around anywhere from 35 seconds to 1 minute.	Boot time:0-9	positive
+1144:1	tech support would not fix the problem unless I bought your plan for $150 plus.	tech support:0-12	negative
+359:1	Set up was easy.	Set up:0-6	positive
+562:1	Did not enjoy the new Windows 8 and touchscreen functions.	Windows 8:22-31	negative
+562:1	Did not enjoy the new Windows 8 and touchscreen functions.	touchscreen functions:36-57	negative
+958:1	Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.	internal speakers:86-103	negative
+958:1	Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.	price tag:203-212	positive
+958:1	Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.	click pads:30-40	negative
+282:9	No installation disk (DVD) is included.	installation disk (DVD):3-26	neutral
+819:1	It's fast, light, and simple to use.	use:32-35	positive
+130:1	Works well, and I am extremely happy to be back to an apple OS.	Works:0-5	positive
+130:1	Works well, and I am extremely happy to be back to an apple OS.	apple OS:54-62	positive
+593:1	Sure it's not light and slim but the features make up for it 100%.	features:37-45	positive
+996:1	I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).	log on:27-33	positive
+996:1	I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).	WiFi connection:42-57	positive
+996:1	I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).	battery life:71-83	positive
+314:21	The Apple engineers have not yet discovered the delete key.	delete key:48-58	negative
+147:5	Made interneting (part of my business) very difficult to maintain.	interneting:5-16	negative
+3:1	Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.	priced:67-73	positive
+663:1	Super light, super sexy and everything just works.	works:44-49	positive
+373:1	Only problem that I had was that the track pad was not very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.	track pad:37-46	negative
+759:1	It is super fast and has outstanding graphics.	graphics:37-45	positive
+326:1	But the mountain lion is just too slow.	mountain lion:8-21	negative
+488:1	Strong build though which really adds to its durability.	durability:45-55	positive
+488:1	Strong build though which really adds to its durability.	build:7-12	positive
+847:1	The battery life is excellent- 6-7 hours without charging.	battery life:4-16	positive
+561:1	I've had my computer for 2 weeks already and it works perfectly.	works:48-53	positive
+1062:1	And I may be the only one but I am really liking Windows 8.	Windows 8:49-58	positive
+792:2	The baterry is very longer.	baterry:4-11	positive
+809:1	Its size is ideal and the weight is acceptable.	size:4-8	positive
+809:1	Its size is ideal and the weight is acceptable.	weight:26-32	positive
+495:1	I can say that I am fully satisfied with the performance that the computer has supplied.	performance:45-56	positive
+910:1	This laptop has only 2 USB ports, and they are both on the same side.	USB ports:23-32	negative
+499:1	It has so much more speed and the screen is very sharp.	speed:20-25	positive
+499:1	It has so much more speed and the screen is very sharp.	screen:34-40	positive
+636:1	Everything I wanted and everything I needed and the price was great!	price:52-57	positive
+48:1	It's not inexpensive but the Hardware performance is impressive for a computer this small.	Hardware performance:29-49	positive
+57:1	This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.	works:41-46	positive
+57:1	This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.	set up:77-83	positive
+387:7	Keyboard responds well to presses.	Keyboard:0-8	positive
+1063:166	Lastly, Windows 8 is annoying.	Windows 8:8-17	negative
+479:1	Everything is so easy and intuitive to setup or configure.	setup:39-44	positive
+479:1	Everything is so easy and intuitive to setup or configure.	configure:48-57	positive
+1107:1	Biggest complaint is Windows 8 .	Windows 8:21-30	negative
+298:29	Only 2 usb ports...seems kind of...limited.	usb ports:7-16	negative
+1061:1	It has all the expected features and more +plus a wide screen and more than roomy keyboard.	features:24-32	positive
+1061:1	It has all the expected features and more +plus a wide screen and more than roomy keyboard.	screen:55-61	positive
+1061:1	It has all the expected features and more +plus a wide screen and more than roomy keyboard.	keyboard:82-90	positive
+128:1	Amazing Performance for anything I throw at it.	Performance:8-19	positive
+655:1	The receiver was full of superlatives for the quality and performance.	quality:46-53	positive
+655:1	The receiver was full of superlatives for the quality and performance.	performance:58-69	positive
+301:1	I was extremely happy with the OS itself.	OS:31-33	positive
+448:3	The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.	portability:25-36	positive
+787:444	The criticism has waned, and now I'd be the first to recommend an Air for truly portable computing.	portable computing:80-98	positive
+1141:1	I would have given it 5 starts was it not for the fact that it had Windows 8	Windows 8:67-76	negative
+787:495	MS Office 2011 for Mac is wonderful, well worth it.	MS Office 2011 for Mac:0-22	positive
+106:1	But the performance of Mac Mini is a huge disappointment.	performance:8-19	negative
+294:1	They don't just look good; they deliver excellent performance.	look:16-20	positive
+294:1	They don't just look good; they deliver excellent performance.	performance:50-61	positive
+553:1	I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.	lit up keys:72-83	positive
+553:1	I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.	screen display:88-102	positive
+315:1	The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.	Mountain Lion OS:4-20	positive
+315:1	The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.	Microsoft Windows:72-89	neutral
+17:4	However, I can refute that OSX is "FAST".	OSX:27-30	negative
+787:575	Enjoy using Microsoft Office!	Microsoft Office:12-28	positive
+412:1	Incredible graphics and brilliant colors.	graphics:11-19	positive
+412:1	Incredible graphics and brilliant colors.	colors:34-40	positive
+747:5	Built-in apps are purely amazing.	Built-in apps:0-13	positive
+395:3	Cons: Screen resolution.	Screen resolution:6-23	negative
+469:1	From the speed to the multi touch gestures this operating system beats Windows easily.	operating system:48-64	positive
+469:1	From the speed to the multi touch gestures this operating system beats Windows easily.	Windows:71-78	negative
+469:1	From the speed to the multi touch gestures this operating system beats Windows easily.	speed:9-14	positive
+469:1	From the speed to the multi touch gestures this operating system beats Windows easily.	multi touch gestures:22-42	positive
+1028:1	I really like the size and I'm a fan of the ACERS.	size:18-22	positive
+286:15	I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support "accidents" like drops and spills that are NOT covered by AppleCare.	SquareTrade 3-Year Computer Accidental Protection Warranty:16-74	positive
+286:15	I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support "accidents" like drops and spills that are NOT covered by AppleCare.	AppleCare:165-174	negative
+1002:1	It's light and easy to transport.	transport:23-32	positive
+1118:1	Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated.	Windows 8 Set-Up:58-74	negative
+417:1	It's been time for a new laptop, and the only debate was which size of the Mac laptops, and whether to spring for the retina display.	size:63-67	neutral
+417:1	It's been time for a new laptop, and the only debate was which size of the Mac laptops, and whether to spring for the retina display.	retina display:118-132	neutral
+727:1	The reason why I choose apple MacBook because of their design and the aluminum casing.	design:55-61	positive
+727:1	The reason why I choose apple MacBook because of their design and the aluminum casing.	aluminum casing:70-85	positive
+747:8	The aluminum body sure makes it stand out.	aluminum body:4-17	positive
+37:1	It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.	integrate bluetooth devices:19-46	positive
+37:1	It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.	USB devices:52-63	positive
+891:8	And the fact that Apple is driving the 13" RMBP with the Intel4000 graphic chip seems underpowered (to me.	Intel4000 graphic chip:57-79	negative
+19:1	Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.	DVD drive Firewire port:18-41	neutral
+19:1	Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.	adapter:58-65	neutral
+19:1	Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.	SDXC slot:79-88	negative
+363:27	The durability of the laptop will make it worth the money.	durability:4-14	positive
+422:1	Well designed and fast.	designed:5-13	positive
+295:1	But I was completely wrong, this computer is UNBELIEVABLE amazing and easy to use.	use:78-81	positive
+1119:1	Exactly as posted plus a great value.	value:31-36	positive
+29:81	The specs are pretty good too.	specs:4-9	positive
+211:1	Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	product quality:22-37	positive
+211:1	Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	aesthetics:38-48	positive
+211:1	Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	craftmanship:49-61	positive
+211:1	Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	customer service:67-83	positive
+1159:1	It is a great size and amazing windows 8 included!	size:14-18	positive
+1159:1	It is a great size and amazing windows 8 included!	windows 8:31-40	positive
+1150:1	I do not like too much Windows 8.	Windows 8:23-32	negative
+787:272	Startup times are incredibly long: over two minutes.	Startup times:0-13	negative
+743:1	Also stunning colors and speedy	colors:14-20	positive
+681:1	great price free shipping what else can i ask for!!	price:6-11	positive
+681:1	great price free shipping what else can i ask for!!	shipping:17-25	positive
+801:1	This mouse is terrific.	mouse:5-10	positive
+786:1423	It is really thick around the battery.	battery:30-37	neutral
+974:1	And windows 7 works like a charm.	windows 7:4-13	positive
+605:1	:) Great product, great price, great delivery, and great service.	price:24-29	positive
+605:1	:) Great product, great price, great delivery, and great service.	delivery:37-45	positive
+605:1	:) Great product, great price, great delivery, and great service.	service:57-64	positive
+846:1	:] It arrived so fast and customer service was great.	customer service:26-42	positive
+983:1	tried windows 8 and hated it !!!	windows 8:6-15	negative
+912:1	The price is higher than most lab top out there; however, he/she will get what they paid for, which is a great computer.	price:4-9	conflict
+723:1	Set up was a breeze.	Set up:0-6	positive
+1122:1	But I do NOT like Win8.	Win8:18-22	negative
+856:1	I am still in the process of learning about its features.	features:48-56	neutral
+609:1	I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.	price:45-50	negative
+609:1	I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.	OSX:84-87	negative
+609:1	I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.	support for games:100-117	negative
+101:1	I wanted it for it's mobility and man, this little bad boy is very nice.	mobility:21-29	positive
+799:1	The investment of a new MacBook Pro came at a price, but totally worth it for a good piece of mind.	price:46-51	conflict
+156:1	I found the mini to be:Exceptionally easy to set up	set up:45-51	positive
+29:318	Having USB3 is why I bought this Mini.	USB3:7-11	positive
+480:7	The sound is nice and loud; I don't have any problems with hearing anything.	sound:4-9	positive
+720:1	It is very slim, the track pad is very much impressed with me.	track pad:21-30	positive
+1122:5	The settings are not user-friendly either.	settings:4-12	negative
+1063:180	Thank goodness for OpenOffice!	OpenOffice:19-29	positive
+627:1	Awesome form factor, great battery life, wonderful UX.	form factor:8-19	positive
+627:1	Awesome form factor, great battery life, wonderful UX.	battery life:27-39	positive
+627:1	Awesome form factor, great battery life, wonderful UX.	UX:51-53	positive
+876:1	i love the keyboard and the screen.	keyboard:11-19	positive
+876:1	i love the keyboard and the screen.	screen:28-34	positive
+998:1	However, there are MAJOR issues with the touchpad which render the device nearly useless.	touchpad:41-49	negative
+104:1	I've already upgraded o Mavericks and I am impressed with everything about this computer.	Mavericks:24-33	positive
+218:1	Not as fast as I would have expect for an i5.	i5:42-44	negative
+79:1	thanks for great service and shipping!	service:17-24	positive
+79:1	thanks for great service and shipping!	shipping:29-37	positive
+16:1	The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.	performance:4-15	positive
+16:1	The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.	built-in applications:38-59	positive
+16:1	The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.	iPhoto:65-71	positive
+895:1	I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.	hard drive:19-29	neutral
+895:1	I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.	Samsung 830 SSD:36-51	positive
+714:1	Starts up in a hurry and everything is ready to go.	Starts up:0-9	positive
+786:876	Yes, that's a good thing, but it's made from aluminum that scratches easily.	aluminum:45-53	negative
+566:1	Quick and has built in virus control.	built in virus control:14-36	positive
+491:1	Took a long time trying to decide between one with retina display and one without.	retina display:51-65	neutral
+278:5	I was also informed that the components of the Mac Book were dirty.	components:29-39	negative
+337:1	the hardware problems have been so bad, i can't wait till it completely dies in 3 years, TOPS!	hardware:4-12	negative
+857:1	It's so nice that the battery last so long and that this machine has the snow lion!	battery:22-29	positive
+857:1	It's so nice that the battery last so long and that this machine has the snow lion!	snow lion:73-82	positive
+927:1	HOWEVER I chose two day shipping and it took over a week to arrive.	shipping:24-32	negative
+679:1	it's exactly what i wanted, and it has all the new features and whatnot.	features:51-59	positive
+503:1	Can you buy any laptop that matches the quality of a MacBook?	quality:40-47	positive
+1040:1	It feels cheap, the keyboard is not very sensitive.	keyboard:20-28	negative
+982:1	Though please note that sometimes it crashes, and the sound quality isnt superb.	sound quality:54-67	negative
+748:1	It is very easy to navigate even for a novice.	navigate:19-27	positive
+989:1	Does everything I need it to, has a wonderful battery life and I couldn't be happier.	battery life:46-58	positive
+765:1	Great Performance and Quality.	Performance:6-17	positive
+765:1	Great Performance and Quality.	Quality:22-29	positive
+462:1	I used windows XP, windows Vista, and Windows 7 extensively.	windows XP:7-17	neutral
+462:1	I used windows XP, windows Vista, and Windows 7 extensively.	windows Vista:19-32	neutral
+462:1	I used windows XP, windows Vista, and Windows 7 extensively.	Windows 7:38-47	neutral
+124:1	I did add a SSD drive and memory	SSD drive:12-21	neutral
+124:1	I did add a SSD drive and memory	memory:26-32	neutral
+269:1	On start up it asks endless questions just so itune can sell you more of their products.	start up:3-11	negative
+269:1	On start up it asks endless questions just so itune can sell you more of their products.	itune:46-51	negative
+332:1	I Have been a Pc user for a very long time now but I will get used to this new OS.	OS:79-81	neutral
+787:628	One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.	restore disks:44-57	negative
+787:628	One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.	charging cables:156-171	negative
+787:628	One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.	material:199-207	negative
+300:1	I bought it to my son who uses it for graphic design.	graphic design:38-52	neutral
+29:312	I never tried any external mics with that iMac.	external mics:18-31	neutral
+580:1	The new os is great on my macbook pro!	os:8-10	positive
+1027:1	I had a little problem adjusting to the small screen but works fine as long as I remember to carry my glasses.	screen:46-52	conflict
+705:1	I have experienced no problems, works as anticipated.	works:32-37	positive
+873:1	System is running great.	System:0-6	positive
+633:1	Easy to customize setting and even create your own bookmarks.	customize setting:8-25	positive
+633:1	Easy to customize setting and even create your own bookmarks.	create your own bookmarks:35-60	positive
+105:1	The MAC Mini, wireless keyboard / mouse and a HDMI cable is all I need to get some real work done.	wireless keyboard / mouse:14-39	neutral
+105:1	The MAC Mini, wireless keyboard / mouse and a HDMI cable is all I need to get some real work done.	HDMI cable:46-56	neutral
+1076:1	it has all the features that we expected and the price was good, working well so far.	features:15-23	positive
+1076:1	it has all the features that we expected and the price was good, working well so far.	price:49-54	positive
+1076:1	it has all the features that we expected and the price was good, working well so far.	working:65-72	positive
+112:1	I work as a designer and coder and I needed a new buddy to work with, not gaming.	gaming:74-80	neutral
+453:1	The new operating system makes this computer into a super iPad.	operating system:8-24	positive
+179:1	Easy to set up and go!	set up:8-14	positive
+900:1	I can't believe how quiet the hard drive is and how quick this thing boots up.	hard drive:30-40	positive
+900:1	I can't believe how quiet the hard drive is and how quick this thing boots up.	boots up:69-77	positive
+1:26	The only issue came when I tried scanning to the mac.	scanning:33-41	negative
+993:1	I think this is about as good as it gets at anything close to this price point.	price point:67-78	neutral
+945:1	It's just what we were looking for and it works great.	works:42-47	positive
+709:1	It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!	working:43-50	positive
+709:1	It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!	surfing:51-58	positive
+87:1	It works fine, and all the software seems to run pretty well.	works:3-8	positive
+87:1	It works fine, and all the software seems to run pretty well.	software:27-35	positive
+0:1	I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.	word processing:28-43	neutral
+0:1	I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.	web browsing:45-57	neutral
+0:1	I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.	gaming:64-70	neutral
+0:1	I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.	programming:89-100	neutral
+477:1	My wife was so excited to open the box, but quickly came to see that it did not function as it should.	function:80-88	negative
+383:1	I wanted a computer that was quite, fast, and that had overall great performance.	performance:69-80	neutral
+160:19	Apple "Help" is a mixed bag.	Apple "Help":0-12	negative
+268:1	It suddenly can not work.	work:20-24	negative
+279:0	Harddrive was in poor condition, had to replace it.	Harddrive:0-9	negative
+200:1	The on/off switch is a bit obscure in the rear corner.	on/off switch:4-17	negative
+28:1	My only complaint is the total lack of instructions that come with the mac mini.	instructions:39-51	negative
+2:1	The only task that this computer would not be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.	gaming:71-77	negative
+2:1	The only task that this computer would not be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.	integrated Intel 4000 graphics:93-123	conflict
+231:1	I'm hoping the rest of the features will be the signature quality of apple.	features:27-35	conflict
+923:1	I use it mostly for content creation (Audio, video, photo editing) and its reliable.	content creation:20-36	positive
+923:1	I use it mostly for content creation (Audio, video, photo editing) and its reliable.	Audio:38-43	positive
+923:1	I use it mostly for content creation (Audio, video, photo editing) and its reliable.	video:45-50	positive
+923:1	I use it mostly for content creation (Audio, video, photo editing) and its reliable.	photo editing:52-65	positive
+462:8	Screen is bright and gorgeous.	Screen:0-6	positive
+382:15	The only solution is to turn the brightness down, etc.	brightness:33-43	neutral
+227	If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.	applications:131-143	neutral
+670:1	It is robust, with a friendly use as all Apple products.	use:30-33	positive
+880:1	It is fast and easy to use.	use:23-26	positive
+745:1	And the fact that it comes with an i5 processor definitely speeds things up	i5 processor:35-47	positive
+889:1	I have been PC for years but this computer is intuitive and its built in features are a great help	built in features:64-81	positive
+1094:1	Nice screen, keyboard works great!	screen:5-11	positive
+1094:1	Nice screen, keyboard works great!	keyboard:13-21	positive
+575:1	I was amazed at how fast the delivery was.	delivery:29-37	positive
+165:1	I've installed to it additional SSD and 16Gb RAM.	SSD:32-35	neutral
+165:1	I've installed to it additional SSD and 16Gb RAM.	16Gb RAM:40-48	neutral
+972:1	The memory was gone and it was not able to be used.	memory:4-10	negative
+796:1	It works great and I am so happy I bought it.	works:3-8	positive
+1138:1	I like the design and ease of use with the keyboard, plenty of ports.	design:11-17	positive
+1138:1	I like the design and ease of use with the keyboard, plenty of ports.	keyboard:43-51	positive
+1138:1	I like the design and ease of use with the keyboard, plenty of ports.	ports:63-68	positive
+322:1	it definitely beats my old mac and the service was great.	service:39-46	positive
+16:2	Web browsing is very quick with Safari browser.	Web browsing:0-12	positive
+16:2	Web browsing is very quick with Safari browser.	Safari browser:32-46	positive
+481:1	I like the lighted screen at night.	lighted screen:11-25	positive
+948:1	It is really easy to use and it is quick to start up.	use:21-24	positive
+948:1	It is really easy to use and it is quick to start up.	start up:44-52	positive
+307:1	I've lived with the crashes and slow operation and restarts.	operation:37-46	negative
+29:319	USB3 Peripherals are noticably less expensive than the ThunderBolt ones.	USB3 Peripherals:0-16	positive
+29:319	USB3 Peripherals are noticably less expensive than the ThunderBolt ones.	ThunderBolt:55-66	negative
+842:1	And mine had broke but I sent it in under warranty-no problems.	warranty:42-50	positive
+894:1	It's fast, light, and is perfect for media editing, which is mostly why I bought it in the first place.	media editing:37-50	positive
+391:1	The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.	battery:4-11	positive
+391:1	The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.	user experience:77-92	positive
+949:1	Thanks for the fast shipment and great price.	shipment:20-28	positive
+949:1	Thanks for the fast shipment and great price.	price:39-44	positive
+824:1	!Excelent performance, usability, presentation and time response.	performance:10-21	positive
+824:1	!Excelent performance, usability, presentation and time response.	usability:23-32	positive
+824:1	!Excelent performance, usability, presentation and time response.	presentation:34-46	positive
+824:1	!Excelent performance, usability, presentation and time response.	time response:51-64	positive
+999:1	The smaller size was a bonus because of space restrictions.	size:12-16	positive
+29:310	I blame the Mac OS.	Mac OS:12-18	negative
+456:1	In fact I still use many Legacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!	Legacy programs:25-40	neutral
+456:1	In fact I still use many Legacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!	Appleworks:42-52	neutral
+456:1	In fact I still use many Legacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!	FileMaker Pro:54-67	neutral
+456:1	In fact I still use many Legacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!	Quicken:69-76	neutral
+456:1	In fact I still use many Legacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!	Photoshop:78-87	neutral
+708:1	I like the operating system.	operating system:11-27	positive
+376:1	I love the form factor.	form factor:11-22	positive
+201:1	It's fast at loading the internet.	loading the internet:13-33	positive
+763:1	So much faster and sleeker looking.	looking:27-34	positive
+962:1	Unfortunately, it runs XP and Microsoft is dropping support next April.	XP:23-25	neutral
+962:1	Unfortunately, it runs XP and Microsoft is dropping support next April.	support:52-59	negative
+281:1	First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.	OS:55-57	positive
+281:1	First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.	overall build:99-112	positive
+281:1	First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.	keyboard:132-140	positive
+926:1	It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.	construction:25-37	positive
+926:1	It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.	system:113-119	neutral
+829:1	Very nice unibody construction.	unibody construction:10-30	positive
+318:1	This Macbook Pro is fast, powerful, and runs super quiet and cool.	runs:40-44	positive
+786:1477	It's ok but doesn't have a disk drive which I didn't know until after I bought it.	disk drive:27-37	neutral
+29:783	There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.	HDMI receptacle:12-27	neutral
+29:783	There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.	SD card slot:45-57	neutral
+758:1	It came in brand new and works perfectly.	works:25-30	positive
+355:1	It shouldn't happen like that, I don't have any design app open or anything.	design app:48-58	neutral
+335:0	MY TRACKPAD IS NOT WORKING.	TRACKPAD:3-11	negative
+706:1	It looks and feels solid, with a flawless finish.	finish:42-48	positive
+706:1	It looks and feels solid, with a flawless finish.	looks:3-8	positive
+706:1	It looks and feels solid, with a flawless finish.	feels:13-18	positive
+671:1	Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.	Price:0-5	negative
+671:1	Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.	price:56-61	positive
+460:1	Then the system would many times not power down without a forced power-off.	system:9-15	negative
+460:1	Then the system would many times not power down without a forced power-off.	power down:37-47	negative
+786:723	The configuration is perfect for my needs.	configuration:4-17	positive
+1171:1	and the speakers is the worst ever.	speakers:8-16	negative
+515:1	Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..	looks:26-31	positive
+515:1	Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..	use:47-50	positive
+515:1	Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..	trackpad:84-92	positive
+786:458	Web surfuring is smooth and seamless.	Web surfuring:0-13	positive
+520:2	I'm overall pleased with the interface and the portability of this product.	interface:29-38	positive
+520:2	I'm overall pleased with the interface and the portability of this product.	portability:47-58	positive
+952:1	This item is a beautiful piece, it works well, it is easy to carry and handle.	works:35-40	positive
+952:1	This item is a beautiful piece, it works well, it is easy to carry and handle.	carry:61-66	positive
+952:1	This item is a beautiful piece, it works well, it is easy to carry and handle.	handle:71-77	positive
+394:1	It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.	performance:71-82	negative
+394:1	It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.	battery lifetime:98-114	negative
+394:1	It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.	hardware (keyboard):27-46	negative
+526:1	Runs good and does the job, can't complain about that!	Runs:0-4	positive
+25:1	It's silent and has a very small footprint on my desk.	footprint:33-42	positive
+379:1	The exterior is absolutely gorgeous.	exterior:4-12	positive
+1140:1	It has a very high performance, just for what I needed for.	performance:19-30	positive
+204:1	Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.	intel 4000 graphics chipset:94-121	neutral
+204:1	Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.	design:73-79	neutral
+29:226	OSX Mountain Lion  soon to upgrade to Mavericks.	OSX Mountain Lion:0-17	neutral
+29:226	OSX Mountain Lion  soon to upgrade to Mavericks.	Mavericks:38-47	neutral
+786:713	I just bought the new MacBook Pro, the 13" model, and I can't believe Apple keeps making the same mistake with regard to USB ports.	USB ports:121-130	negative
+898:3	It wakes in less than a second when I open the lid.	lid:47-50	neutral
+898:3	It wakes in less than a second when I open the lid.	wakes:3-8	positive
+860:1	It is the perfect size and speed for me.	size:18-22	positive
+860:1	It is the perfect size and speed for me.	speed:27-32	positive
+555:1	THE CUSTOMER SERVICE IS TERRIFIC!!	CUSTOMER SERVICE:4-20	positive
+959:1	My last laptop was a 17" ASUS gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, I found myself wanting something smaller and less cumbersome, not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago.	performed:52-61	positive
+908:1	However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.	battery cycle count:45-64	positive
+908:1	However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.	hardware:97-105	positive
+181:1	After fumbling around with the OS I started searching the internet for a fix and found a number of forums on fixing the issue.	OS:31-33	negative
+787:193	And as for all the fancy finger swipes -- I just gave up and attached a mouse.	finger swipes:25-38	negative
+787:193	And as for all the fancy finger swipes -- I just gave up and attached a mouse.	mouse:72-77	neutral
+447:1	I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.	storage:27-34	neutral
+447:1	I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.	screen:43-49	neutral
+447:1	I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.	photoshop:68-77	neutral
+928:1	I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.	Mac OS:22-28	positive
+928:1	I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.	speaker quality:59-74	negative
+776:1	Shipped very quickly and safely.	Shipped:0-7	positive
+787:568	The thunderbolt port is awesome!	thunderbolt port:4-20	positive
+691:1	The performance is definitely superior to any computer I've ever put my hands on.	performance:4-15	positive
+242:1	It's great for streaming video and other entertainment uses.	streaming video:15-30	positive
+242:1	It's great for streaming video and other entertainment uses.	entertainment uses:41-59	positive
+567:1	I like the design and its features but there are somethings I think needs to be improved.	design:11-17	positive
+567:1	I like the design and its features but there are somethings I think needs to be improved.	features:26-34	positive
+507:1	There were small problems with Mac office.	Mac office:31-41	negative
+579:1	I understand I should call Apple Tech Support about any variables(which is my purpose of writing this con) as variables could be a bigger future problem.	Apple Tech Support:27-45	neutral
+19:0	I ordered my 2012 mac mini after being disappointed with spec of the new 27" Imacs.	spec:57-61	negative
+341:1	It still works and it's extremely user friendly, so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things	works:9-14	positive
+816:1	Its fast, easy to use and it looks great.	use:18-21	positive
+816:1	Its fast, easy to use and it looks great.	looks:29-34	positive
+1075:1	(but Office can be purchased) IF I ever need a laptop again I am for sure purchasing another Toshiba!!	Office:5-11	neutral
+689:1	I haven't tried the one with retina display... Maybe in the future.	retina display:29-43	neutral
+313:1	Performance is much much better on the Pro, especially if you install an SSD on it.	Performance:0-11	positive
+313:1	Performance is much much better on the Pro, especially if you install an SSD on it.	SSD:73-76	positive
+286:1	Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.	MagSafe accessories:33-52	neutral
+286:1	Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.	MagSafe 2 connection:85-105	negative
+1074:1	The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.	touchpad:32-40	negative
+1074:1	The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.	mouse:139-144	neutral
+202:1	The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc	runs:80-84	positive
+202:1	The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc	fans:110-114	positive
+414:1	MAYBE The Mac OS improvement were not The product they Want to offer.	Mac OS:10-16	negative
+786:867	I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem.	Mac ecosystem:118-131	neutral
+533:1	It's absolutely wonderful and worth the price!	price:40-45	positive
+1131:1	I am please with the products ease of use; out of the box ready; appearance and functionality.	use:38-41	positive
+1131:1	I am please with the products ease of use; out of the box ready; appearance and functionality.	appearance:65-75	positive
+1131:1	I am please with the products ease of use; out of the box ready; appearance and functionality.	functionality:80-93	positive
+662:1	Perfect for all my graphic design classes I'm taking this year in college :-)	graphic design:19-33	positive
+786:1473	I will not be using that slot again.	slot:25-29	negative
+289:5	The OS is fast and fluid, everything is organized and it's just beautiful.	OS:4-6	positive
+843:3	They are simpler to use.	use:20-23	positive
+938:1	!so nice .. stable .. fast .. now i got my SSD !	SSD:43-46	positive
+968:5	Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the "Star Wars" saga.	built-in camera:19-34	neutral
+968:5	Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the "Star Wars" saga.	voice recording:39-54	negative
+29:742	I love the quick start up.	start up:17-25	positive
+294:0	You just cannot beat the functionality of an Apple device.	functionality:25-38	positive
+547:17	Yet my mac continues to function properly.	function:24-32	positive
+463:9	Graphics are much improved.	Graphics:0-8	positive
+275:7	Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.	Build Quality:60-73	positive
+275:7	Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.	unibody construction:104-124	positive
+286:3	It provides much more flexibility for connectivity.	flexibility for connectivity:22-50	positive
+786:1275	I want the portability of a tablet, without the limitations of a tablet and that's where this laptop comes into play.	portability:11-22	positive
+29:172	Mac tutorials do help.	Mac tutorials:0-13	positive
+1063:397	The technical support was not helpful as well.	technical support:4-21	negative
+1063:373	I got the new adapter and there was no change.	adapter:14-21	neutral
+1063:374	so i called technical support.	technical support:12-29	neutral
+29:186	Came with iPhoto and garage band already loaded.	iPhoto:10-16	neutral
+29:186	Came with iPhoto and garage band already loaded.	garage band:21-32	neutral
+26:4	Logic board utterly fried, cried, and laid down and died.	Logic board:0-11	positive
+1063:396	The sound was crappy even when you turn up the volume still the same results.	sound:4-9	negative
+1063:396	The sound was crappy even when you turn up the volume still the same results.	volume:47-53	negative
+271:4	OSX Lion is a great performer..extremely fast and reliable.	OSX Lion:0-8	positive
+479:5	Having heard from friends and family about how reliable a Mac product is, I never expected to have an application crash within the first month, but I did.	application:102-113	negative
+462:6	The Macbook pro's physical form is wonderful.	physical form:18-31	positive
+0:3	The Mini's body hasn't changed since late 2010- and for a good reason.	body:11-15	positive
+461:17	The unibody construction really does feel lot more solid than Apple's previous laptops.	unibody construction:4-24	positive
+0:14	3D rendering slows it down considerably.	3D rendering:0-12	negative
+22:0	Got this Mac Mini with OS X Mountain Lion for my wife.	OS X Mountain Lion:23-41	neutral
+420:1	fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!	screen:12-18	positive
+420:1	fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!	apps:30-34	positive
+420:1	fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!	priced:48-54	neutral
+420:1	fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!	cost:155-159	neutral
+872:1	12.44 seconds to boot.	boot:17-21	neutral
+731:5	All the ports are much needed since this is my main computer.	ports:8-13	neutral
+267:1	The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.	Quad-Core 2.5 GHz CPU:91-112	neutral
+267:1	The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.	Radeon HD 6750M 512MB graphic card:146-180	neutral
+267:1	The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.	integrated Intel 4000 card:195-221	neutral
+267:1	The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.	wireless Apple Keyboard and Mouse:247-280	neutral
+267:1	The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.	package:316-323	positive
+419:2	Put a cover on it and is a little better but that is my only complaint.	cover:6-11	neutral
+291:6	Within a few hours I was using the gestures unconsciously.	gestures:35-43	positive
+786:633	This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.	extender cable:27-41	neutral
+786:633	This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.	cable:82-87	positive
+293:3	The 2.9ghz dual-core i7 chip really out does itself.	2.9ghz dual-core i7 chip:4-28	positive
+786:1277	It is pretty snappy and starts up in about 30 seconds which is good enough for me.	starts up:24-33	positive
+463:26	So noise is reduced at least 50% and the heat is much better, now it doesn't feel hot but warm.	heat:41-45	conflict
+463:26	So noise is reduced at least 50% and the heat is much better, now it doesn't feel hot but warm.	noise:3-8	conflict
+1101:1	Not sure on Windows 8.	Windows 8:12-21	neutral
+71:1	My one complaint is that there was no internal CD drive.	internal CD drive:38-55	negative
+997:1	This newer netbook has no hard drive or network lights.	hard drive:26-36	neutral
+997:1	This newer netbook has no hard drive or network lights.	network lights:40-54	neutral
+289:1	I was having a though time deciding between the 13" MacBook Air or the MacBook Pro 13" (Both baseline models, priced at 1,200 $ retail)	priced:110-116	neutral
+98:1	Not too expense and has enough storage for most users and many ports.	storage:31-38	positive
+98:1	Not too expense and has enough storage for most users and many ports.	ports:63-68	positive
+786:1193	The audio volume is quite low and virtually unusable in a room with any background activity.	audio volume:4-16	negative
+389:1	It is lightweight and the perfect size to carry to class.	size:34-38	positive
+787:207	I was given a demonstration of Windows 8.	Windows 8:31-40	neutral
+314:67	The MBP is beautiful has many wonderful capabilities.	capabilities:40-52	positive
+339:4	I thought that it will be fine, if i do some settings.	settings:45-53	neutral
+349:1	Runs very smoothly.	Runs:0-4	positive
+786:1355	Boot-up slowed significantly after all Windows updates were installed.	Boot-up:0-7	negative
+786:1355	Boot-up slowed significantly after all Windows updates were installed.	Windows updates:39-54	negative
+7:21	More likely it will require replacing the logic board once they admit they have a problem and come up with a solution.	logic board:42-53	negative
+1056:1	It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	internet:85-93	positive
+1056:1	It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	word processing:95-110	positive
+1056:1	It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	graphic design:112-126	positive
+1056:1	It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	gaming:131-137	positive
+227:1	I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.	setup:35-40	positive
+227:1	I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.	install:45-52	positive
+227:1	I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.	tutorial:96-104	neutral
+227:1	I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.	features:137-145	neutral
+227:1	I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.	right mouse click menu:184-206	neutral
+378:1	Runs real quick.	Runs:0-4	positive
+494:1	Buy the separate RAM memory and you will have a rocket!	RAM memory:17-27	positive
+786:1170	Since the machine's slim profile is critical to me, that was a problem.	profile:25-32	negative
+1077:1	WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.	disk drive:17-27	positive
+1077:1	WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.	USB ports:41-50	positive
+1077:1	WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.	WiFi capability:0-15	positive
+1053:13	The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.	SD card reader:4-18	negative
+1053:13	The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.	nail slot on the card:61-82	negative
+1053:13	The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.	slot:132-136	negative
+615:1	Soft touch, anodized aluminum with laser cut precision and no flaws.	touch:5-10	positive
+615:1	Soft touch, anodized aluminum with laser cut precision and no flaws.	anodized aluminum:12-29	positive
+787:873	Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.	aluminium:24-33	positive
+787:873	Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.	glass:43-48	positive
+261:0	First of all yes this is a mac and it has that nice brushed aluminum .	aluminum:60-68	positive
+115:1	After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.	16GB of RAM:73-84	neutral
+115:1	After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.	Seagate Momentus XT hybrid drives:90-123	neutral
+115:1	After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.	OWC upgrade kit:131-146	neutral
+115:1	After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.	hard drive:169-179	neutral
+843:1	The Dell Inspiron is fast and has a number pad on the keyboard, which I miss on my Apple laptops.	number pad on the keyboard:36-62	positive
+578:1	I was concerned that the downgrade to the regular hard drive would make it unacceptably slow but I need not have worried - this machine is the fastest I have ever owned...	regular hard drive:42-60	positive
+523:1	This one still has the CD slot.	CD slot:23-30	neutral
+754:11	No HDMI port.	HDMI port:3-12	neutral
+787:619	I had to install Mountain Lion and it took a good two hours.	install Mountain Lion:9-30	negative
+266:25	Customization on mac is impossible.	Customization:0-13	negative
+29:322	I am replacing the HD with a Micron SSD soon.	HD:19-21	neutral
+29:322	I am replacing the HD with a Micron SSD soon.	Micron SSD:29-39	neutral
+275:12	Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.	two finger clicking:5-24	positive
+275:12	Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.	right click button:50-68	neutral
+397:17	The SuperDrive is quiet.	SuperDrive:4-14	positive
+1035:1	The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.	power plug:4-14	negative
+1035:1	The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.	power adaptor:42-55	neutral
+1035:1	The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.	battery:70-77	neutral
+1064:1	The battery was completely dead, in fact it had grown about a quarter inch thick lump on the underside.	battery:4-11	negative
+429:0	if yo like practicality this is the laptop for you.	practicality:11-23	positive
+398:2	The OS is great.	OS:4-6	positive
+203:1	I tried several monitors and several HDMI cables and this was the case each time.	monitors:16-24	neutral
+203:1	I tried several monitors and several HDMI cables and this was the case each time.	HDMI cables:37-48	neutral
+497:3	CONS: Price is a bit ridiculous, kinda heavy.	Price:6-11	negative
+1160:2	The troubleshooting said it was the AC adaptor so we ordered a new one.	AC adaptor:36-46	neutral
+47:1	Fan only comes on when you are playing a game.	Fan:0-3	neutral
+47:1	Fan only comes on when you are playing a game.	playing a game:31-45	neutral
+961:1	Which it did not have, only 3 USB 2 ports.	USB 2 ports:30-41	neutral
+279:2	No startup disk was not included but that may be my fault.	startup disk:3-15	neutral
+29:1175	There is no "tools" menu.	"tools" menu:12-24	neutral
+716:1	It is very fast and has everything that I need except for a word program.	word program:60-72	negative
+217:1	Needs a CD/DVD drive and a bigger power switch.	CD/DVD drive:8-20	neutral
+217:1	Needs a CD/DVD drive and a bigger power switch.	power switch:34-46	negative
+840:1	My laptop with Windows 7 crashed and I did not want Windows 8.	Windows 7:15-24	negative
+840:1	My laptop with Windows 7 crashed and I did not want Windows 8.	Windows 8:52-61	negative
+121:1	Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.	install:8-15	positive
+121:1	Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.	configure for ADSl cable or wifi:79-111	positive
+1008:1	The speakers could have been better but it wasn't a deal breaker... this is a great little laptop... love it!	speakers:4-12	conflict
+688:1	Nice packing.	packing:5-12	positive
+62:1	I switched to this because I wanted something different, even though I miss windows.	windows:76-83	positive
+464:4	Apple no longer includes iDVD with the computer and furthermore, Apple doesn't even offer it anymore!	iDVD:25-29	negative
+991:1	I also wanted Windows 7, which this one has.	Windows 7:14-23	positive
+941:1	At first, I feel a little bit uncomfortable in using the Mac system.	Mac system:57-67	negative
+440:1	I am used to computers with windows so I am having a little difficulty finding my way around.	windows:28-35	neutral
+626:1	It just works out of the box and you have a lot of cool software included with the OS.	works:8-13	positive
+626:1	It just works out of the box and you have a lot of cool software included with the OS.	software:56-64	positive
+626:1	It just works out of the box and you have a lot of cool software included with the OS.	OS:83-85	neutral
+525:1	its as advertised on here..... it works great and is not a waste of money!	works:34-39	positive
+786:82	Runs like a champ.....	Runs:0-4	positive
+692:1	Premium price for the OS more than anything else.	price:8-13	positive
+692:1	Premium price for the OS more than anything else.	OS:22-24	neutral
+976:1	I was a little concerned about the touch pad based on reviews, but I've found it fine to work with.	touch pad:35-44	positive
+762:1	I bought this Mac book pro along with a new 27" iMac and while they are still light years more reliable than a PC I have noticed a decline in the reliability of my Mac computers.	reliability:146-157	conflict
+786:1301	The sound as mentioned earlier isn't the best, but it can be solved with headphones.	sound:4-9	conflict
+786:1301	The sound as mentioned earlier isn't the best, but it can be solved with headphones.	headphones:73-83	neutral
+786:1054	The track pad is a bit squirrely at times- sometimes too sensitive, and sometimes a bit unresponsive, but it's usable.	track pad:4-13	conflict
+479:6	However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.	OS:44-46	positive
+479:6	However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.	application:80-91	positive
+258:1	If you ask me, for this price it should be included.	price:24-29	negative
+1044:1	The battery is not as shown in the product photos.	battery:4-11	negative
+416:1	Even though I could have gotten a pc twice the speed for the same price I still think there's nothing like a Mac.	price:66-71	conflict
+416:1	Even though I could have gotten a pc twice the speed for the same price I still think there's nothing like a Mac.	speed:47-52	conflict
+367:1	Shipping was quick and product described was the product sent and so much more...	Shipping:0-8	positive
+718:1	the retina display display make pictures i took years ago jaw dropping.	retina display display:4-26	positive
+109:1	The Mac Mini is probably the simplest example of compact computing out there.	compact computing:49-66	positive
+96:1	Instead, I'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy.	performance and feature set of the hardware:39-82	neutral
+786:572	Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.	ports:6-11	neutral
+786:572	Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.	FireWire 800:20-32	neutral
+786:572	Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.	Gigabit Ethernet:34-50	neutral
+786:572	Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.	MagSafe port:52-64	neutral
+786:572	Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.	Microphone jack:66-81	neutral
+325:1	Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.	ventilation system:32-50	negative
+325:1	Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.	watching videos:100-115	neutral
+325:1	Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.	playing steam games:126-145	neutral
+965:1	Chatting with Acer support, I was advised the problem was corrupted operating system files.	Acer support:14-26	neutral
+965:1	Chatting with Acer support, I was advised the problem was corrupted operating system files.	operating system files:68-90	neutral
+50:1	It's been a couple weeks since the purchase and I'm struggle with finding the correct keys (but that was expected).	keys:86-90	neutral
+326:3	Many people complain about the new OS, and it's urgent for Apple to fix it asap!	OS:35-37	negative
+786:237	Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.	Lion:28-32	positive
+786:237	Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.	MAC OS:57-63	positive
+786:179	User upgradeable RAM and HDD.	RAM:17-20	positive
+786:179	User upgradeable RAM and HDD.	HDD:25-28	positive
+786:331	But I wanted the Pro for the CD/DVD player.	CD/DVD player:29-42	positive
+347:1	The RAM memory is good but should have splurged for 8Mb instead of 4Mb.	RAM memory:4-14	conflict
+500:1	I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.	os.x:76-80	neutral
+500:1	I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.	windows:85-92	positive
+500:1	I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.	windows:155-162	neutral
+574:1	With the softwares supporting the use of other OS makes it much better.	OS:47-49	neutral
+574:1	With the softwares supporting the use of other OS makes it much better.	softwares:9-18	neutral
+305:3	I then upgraded to Mac OS X 10.8 "Mountain Lion".	Mac OS X 10.8 "Mountain Lion":19-48	neutral
+898:1	I was considering buying the Air, but in reality, this one has a more powerful performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.	performance:79-90	positive
+891:1	At home and the office it gets plugged into an external 24" LCD screen, so built in screen size is not terribly important.	built in screen size:75-95	neutral
+891:1	At home and the office it gets plugged into an external 24" LCD screen, so built in screen size is not terribly important.	external 24" LCD screen:47-70	neutral
+65:1	Just beware no DVD slot so when I went to install software I had on CD I couldn't.	install software:42-58	negative
+65:1	Just beware no DVD slot so when I went to install software I had on CD I couldn't.	DVD slot:15-23	neutral
+994:1	I bought it to be able to dedicate a small, portable laptop to my writing and was surprised to learn that I needed to buy a word processing program to do so.	word processing program:124-147	neutral
+443:1	This version of MacBook Pro runs on a third-generation CPU ("Ivy Bridge"), not the latest fourth-generation Haswell CPU the 2013 version has.	third-generation CPU ("Ivy Bridge"):38-73	neutral
+443:1	This version of MacBook Pro runs on a third-generation CPU ("Ivy Bridge"), not the latest fourth-generation Haswell CPU the 2013 version has.	fourth-generation Haswell CPU:90-119	neutral
+245:1	No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.	Cd Rom:3-9	neutral
+245:1	No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.	features:98-106	negative
+1063:403	the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer	volume:4-10	negative
+1063:403	the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer	volume:63-69	negative
+786:842	and its not hard to accidentally bang it against something so i recommend getting a case to protect it.	case:84-88	neutral
+285:1	I got this at an amazing price from Amazon and it arrived just in time.	price:25-30	positive
+43:1	Every time I log into the system after a few hours, there is this endlessly frustrating process that I have to go through.	log into the system:13-32	negative
+123:1	Put a SSD and use a 21" LED screen, this set up is silky smooth!	21" LED screen:20-34	neutral
+123:1	Put a SSD and use a 21" LED screen, this set up is silky smooth!	SSD:6-9	neutral
+123:1	Put a SSD and use a 21" LED screen, this set up is silky smooth!	set up:41-47	positive
+11:1	The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.	case:4-8	negative
+11:1	The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.	size:135-139	conflict
+11:1	The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.	external power supply:81-102	neutral
+1009:1	I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.	wireless mouse:15-29	neutral
+1009:1	I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.	pad:77-80	negative
+1009:1	I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.	works:123-128	positive
+1009:1	I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.	key board:164-173	neutral
+404:1	When considering a Mac, look at the total cost of ownership and not just the initial price tag.	cost of ownership:42-59	neutral
+404:1	When considering a Mac, look at the total cost of ownership and not just the initial price tag.	price tag:85-94	neutral
+1020:1	Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.	features:18-26	positive
+1020:1	Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.	VGA port:48-56	neutral
+1020:1	Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.	HDMI:58-62	neutral
+1020:1	Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.	ethernet:64-72	neutral
+1020:1	Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.	USB ports:79-88	neutral
+271:28	The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip.	rubber pads:51-62	negative
+1143:1	It's a decent computer for the price and hopefully it will last a long time.	price:31-36	neutral
+29:1	I was really happy because it is a much better price on amazon.com than it was in the Mac store.	price:47-52	conflict
+29:1027	The nicest  part is the low heat output and ultra quiet operation.	heat output:28-39	positive
+29:1027	The nicest  part is the low heat output and ultra quiet operation.	operation:56-65	positive
+805:1	I will upgrade the ram myself (because with this model you can you can do it) later on.	upgrade the ram:7-22	positive
+568:1	The price is 200 dollars down.	price:4-9	positive
+75:1	this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.	built-in mic:30-42	neutral
+75:1	this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.	Mac OS 10.9:71-82	negative
+75:1	this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.	external microphones:99-119	neutral
+859:1	A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.	features:9-17	neutral
+859:1	A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.	shortcuts:22-31	neutral
+768:1	Wasn't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different.	IOS system:113-123	positive
+272:10	air has higher resolution but the fonts are small.	resolution:15-25	positive
+272:10	air has higher resolution but the fonts are small.	fonts:34-39	negative
+862:1	working with Mac is so much easier, so many cool features.	working:0-7	positive
+862:1	working with Mac is so much easier, so many cool features.	features:49-57	positive
+643:1	I like the brightness and adjustments.	brightness:11-21	positive
+643:1	I like the brightness and adjustments.	adjustments:26-37	positive
+164:1	I only wish this mac had a CD/DVD player built in.	CD/DVD player:27-40	neutral
+969:5	The only thing I miss is that my old Alienware laptop had backlit keys.	backlit keys:58-70	negative
+933:1	The only thing I miss are the "Home/End" type keys and other things that I grew accustomed to after so long.	"Home/End" type keys:30-50	neutral
+535:1	So happy with this purchase, I just wish it came with Microsoft Word.	Microsoft Word:54-68	neutral
+1133:1	It has enough memory and speed to run my business with all the flexibility that comes with a laptop.	memory:14-20	positive
+1133:1	It has enough memory and speed to run my business with all the flexibility that comes with a laptop.	speed:25-30	positive
+1133:1	It has enough memory and speed to run my business with all the flexibility that comes with a laptop.	flexibility:63-74	positive
+881:4	The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.	speed:4-9	positive
+881:4	The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.	simplicity:15-25	positive
+881:4	The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.	design:31-37	positive
+390:1	The battery life is excellent, the display is excellent, and downloading apps is a  breeze.	battery life:4-16	positive
+390:1	The battery life is excellent, the display is excellent, and downloading apps is a  breeze.	display:35-42	positive
+390:1	The battery life is excellent, the display is excellent, and downloading apps is a  breeze.	downloading apps:61-77	positive
+940:1	The screen, the software and the smoothness of the operating system.	screen:4-10	positive
+940:1	The screen, the software and the smoothness of the operating system.	software:16-24	positive
+940:1	The screen, the software and the smoothness of the operating system.	operating system:51-67	positive
+547:16	i have dropped mine a couple times with only a slim plastic case covering it.	slim plastic case:47-64	neutral
+991:8	I also made a recovery USB stick.	recovery USB stick:14-32	neutral
+311:18	But with this laptop, the bass is very weak and the sound comes out sounding tinny.	bass:26-30	negative
+311:18	But with this laptop, the bass is very weak and the sound comes out sounding tinny.	sound:52-57	negative
+339:1	The built quality is really good, I was so Happy and excited about this Product.	built quality:4-17	positive
+484:1	I am loving the fast performance also.	performance:21-32	positive
+29:313	Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.	Bluetooth interface:36-55	negative
+29:313	Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.	Mac OS:73-79	negative
+29:313	Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.	range:89-94	negative
+1063:161	If you start on the far right side and scroll to your left the start menu will automatically come up.	start menu:63-73	neutral
+67:1	My only gripe would be the need to add more RAM.	RAM:44-47	negative
+1107:3	Fine if you have a touch screen.	touch screen:19-31	neutral
+32:1	As far as user type - I dabble in everything from games (WoW) to Photoshop, but nothing professionally.	games:50-55	neutral
+32:1	As far as user type - I dabble in everything from games (WoW) to Photoshop, but nothing professionally.	Photoshop:65-74	neutral
+997:12	I re-seated the "WLAN" card inside and re-installed the LAN device drivers.	"WLAN" card:16-27	neutral
+997:12	I re-seated the "WLAN" card inside and re-installed the LAN device drivers.	LAN device drivers:56-74	neutral
+934:1	This by far beats any computer out on the market today built well, battery life AMAZING.	built:55-60	positive
+934:1	This by far beats any computer out on the market today built well, battery life AMAZING.	battery life:67-79	positive
+787:543	The OS is easy, and offers all kinds of surprises.	OS:4-6	positive
+884:1	I had to get Apple Customer Support to correct the problem.	Apple Customer Support:13-35	neutral
+834:1	A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.	Firewire 800:27-39	positive
+834:1	A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.	USB3:81-85	negative
+834:1	A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.	USB3:106-110	neutral
+834:1	A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.	MAC OS:144-150	negative
+834:1	A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.	Windows 7:190-199	positive
+146:1	I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.	iTunes:7-13	positive
+146:1	I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.	security:28-36	positive
+146:1	I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.	Mini form factor:42-58	positive
+146:1	I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.	graphics stuff:73-87	positive
+786:1472	The first time I used the card reader it took half an hour and a pair of tweezers to remove the card.	card reader:26-37	negative
+786:1472	The first time I used the card reader it took half an hour and a pair of tweezers to remove the card.	remove the card:85-100	negative
+755:1	After replacing the spinning hard disk with an ssd drive, my mac is just flying.	spinning hard disk:20-38	neutral
+755:1	After replacing the spinning hard disk with an ssd drive, my mac is just flying.	ssd drive:47-56	positive
+55:1	I know some people complained about HDMI issues but they released a firmware patch to address that issue.	HDMI:36-40	neutral
+55:1	I know some people complained about HDMI issues but they released a firmware patch to address that issue.	firmware patch:68-82	neutral
+762:7	With the needs of a professional photographer I generally need to keep up with the best specs.	specs:88-93	neutral
+685:1	packing and everything was perfect	packing:0-7	positive
+1068:1	I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards.	mother boards:112-125	neutral
+474:1	I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.	Mother Board:43-55	negative
+474:1	I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.	graphics card:107-120	negative
+946:1	It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.	4G of RAM:19-28	neutral
+946:1	It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.	8G of RAM:97-106	neutral
+946:1	It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.	performs:150-158	positive
+184:1	This computer is also awesome for my sons virtual home schooling.	virtual home schooling:42-64	positive
+786:31	Cost is more as compared to other brands.	Cost:0-4	negative
+932:1	also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	operating system:19-35	positive
+932:1	also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	size:37-41	positive
+932:1	also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	weight:46-52	positive
+932:1	also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	mobility:65-73	positive
+932:1	also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	durability of the battery:85-110	positive
+932:1	also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	functions provided by the trackpad:116-150	positive
+256:1	This hardware seems to be better than the iMac in that it isn't $1400 and smaller.	hardware:5-13	positive
+520:1	I've had it for about 2 months now and found no issues with software or updates.	software:60-68	neutral
+520:1	I've had it for about 2 months now and found no issues with software or updates.	updates:72-79	neutral
+306:2	the latest version does not have a disc drive.	disc drive:35-45	neutral
+280:11	Screen - although some people might complain about low res which I think is ridiculous.	Screen:0-6	positive
+280:11	Screen - although some people might complain about low res which I think is ridiculous.	res:55-58	positive
