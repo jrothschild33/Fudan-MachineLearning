@@ -53,9 +53,11 @@ $ pipeline.py --- pipelines for implementing sketchy reading and intensive readi
 
 ```
 $ metrics.py --- outputs measured by F1-score and exact match, consists of compute_predictions_logits_av, compute_predictions_log_probs
+```
 
 ## Model Execution
 
+```
 $ download.py --- download command
 
 $ convert.py --- convert command
