@@ -56,4 +56,5 @@ epoch 19: L_tot 103.72 L_likelihood -80.75 L_divergence 22.97
 ```
 
 2.复原图：为了展示美观，这里选取了100个样本进行复原，并将每次迭代后的结果进行展示，可以清晰地看到，随着epoch的增多，复原效果也越来越好。
+
 ![result](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/4.Auto%20Encoder/result.png)
