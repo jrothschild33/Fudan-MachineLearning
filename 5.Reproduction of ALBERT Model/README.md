@@ -21,46 +21,51 @@ With the application and development of pre-training model in natural language p
 ![Structure](https://jrothschild.oss-cn-shanghai.aliyuncs.com/AIfinalproject/Structure.png)
 
 ## Data Preprocess
+```
+$ download_mrpc.py --- auto-download mrpc dataset 
 
-> $ download_mrpc.py --- auto-download mrpc dataset 
-> 
-> $ link_test.py --- test if the downloading link is still available
-> 
-> $ mrpc.py --- mrpc processor; consists of MNLI processor, COLA processor, STS-B processor, STS-2 processor, QQP processor, QNLI processor, RTE processor, WNLI processor
-> 
-> $ squad.py --- squad processor; consists of SQuAD processor, SQuADV1Processor, SQuADV2Processor, SQuADresult
-> 
-> $ utils.py --- base class for sequence classification model, consists of InputFeatures, DataProcessor, SingleSentenceClassificationProcessor
+$ link_test.py --- test if the downloading link is still available
+
+$ mrpc.py --- mrpc processor; consists of MNLI processor, COLA processor, STS-B processor, STS-2 processor, QQP processor, QNLI processor, RTE processor, WNLI processor
+
+$ squad.py --- squad processor; consists of SQuAD processor, SQuADV1Processor, SQuADV2Processor, SQuADresult
+
+$ utils.py --- base class for sequence classification model, consists of InputFeatures, DataProcessor, SingleSentenceClassificationProcessor
+```
 
 ## Model Construction
 
-> $ configuration.py --- albert configuration; consists of  PretrainedConfig, AlbertConfig
-> 
-> $ tokenization.py --- albert tokenization; PreTrainedTokenizer, AlbertTokenizer
-> 
-> $ convert.py --- convert albert tf checkpoint to pytorch
-> 
-> $ model.py --- build albert model; consists of AlbertEmbeddings, AlbertAttention, AlbertLayer, AlbertLayerGroup, AlbertTransformer, AlbertPreTrainedModel, AlbertModel, AlbertForSequenceClassification
-> 
-> $ optimization.py --- optimize albert model, consists of AdamW optimizer
-> 
-> $ pipeline.py --- pipelines for implementing sketchy reading and intensive reading, consists of PipelineDataFormat, JsonPipelineDataFormat, Pipeline, TextClassificationPipeline, NerPipeline
+```
+$ configuration.py --- albert configuration; consists of  PretrainedConfig, AlbertConfig
 
-## Model Evaluation 
+$ tokenization.py --- albert tokenization; PreTrainedTokenizer, AlbertTokenizer
 
-> $ metrics.py --- outputs measured by F1-score and exact match, consists of compute_predictions_logits_av, compute_predictions_log_probs
+$ convert.py --- convert albert tf checkpoint to pytorch
+
+$ model.py --- build albert model; consists of AlbertEmbeddings, AlbertAttention, AlbertLayer, AlbertLayerGroup, AlbertTransformer, AlbertPreTrainedModel, AlbertModel, AlbertForSequenceClassification
+
+$ optimization.py --- optimize albert model, consists of AdamW optimizer
+
+$ pipeline.py --- pipelines for implementing sketchy reading and intensive reading, consists of PipelineDataFormat, JsonPipelineDataFormat, Pipeline, TextClassificationPipeline, NerPipeline
+```
+
+## Model Evaluation
+
+```
+$ metrics.py --- outputs measured by F1-score and exact match, consists of compute_predictions_logits_av, compute_predictions_log_probs
 
 ## Model Execution
 
-> $ download.py --- download command
-> 
-> $ convert.py --- convert command
-> 
-> $ server.py --- serving server command
-> 
-> $ train.py --- train command
-> 
-> $ run.py --- run command
+$ download.py --- download command
+
+$ convert.py --- convert command
+
+$ server.py --- serving server command
+
+$ train.py --- train command
+
+$ run.py --- run command
+```
 
 # Results
 | Model          | Parameters | SQuAD1.1  | SQuAD2.0  |

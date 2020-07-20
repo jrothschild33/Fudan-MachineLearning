@@ -30,14 +30,11 @@ ALBERT_PRETRAINED_MODEL_ARCHIVE_MAP = {
 
 def load_tf_weights_in_albert(model, config, tf_checkpoint_path):
     """ Load tf checkpoints in a pytorch model."""
-    try:
-        import re
-        import numpy as np
-        import tensorflow as tf
-    except ImportError:
-        logger.error("Loading a TensorFlow model in PyTorch, requires TensorFlow to be installed. Please see "
-            "https://www.tensorflow.org/install/ for installation instructions.")
-        raise
+
+    import re
+    import numpy as np
+    import tensorflow as tf
+
     tf_path = os.path.abspath(tf_checkpoint_path)
     logger.info("Converting TensorFlow checkpoint from {}".format(tf_path))
     init_vars = tf.train.list_variables(tf_path)

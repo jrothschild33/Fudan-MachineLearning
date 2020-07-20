@@ -1,17 +1,3 @@
-# coding=utf-8
-# Copyright 2018 The HuggingFace Inc. team.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 import sys
@@ -36,14 +22,9 @@ from transformers import (AutoConfig, AutoTokenizer, PreTrainedTokenizer,
                           is_torch_available, BasicTokenizer,
                           ALL_PRETRAINED_CONFIG_ARCHIVE_MAP)
 
-if is_tf_available():
-    import tensorflow as tf
-    from transformers import TFAutoModel, TFAutoModelForSequenceClassification, \
-        TFAutoModelForQuestionAnswering, TFAutoModelForTokenClassification
 
-if is_torch_available():
-    import torch
-    from transformers import AutoModel, AutoModelForSequenceClassification, \
+import torch
+from transformers import AutoModel, AutoModelForSequenceClassification, \
         AutoModelForQuestionAnswering, AutoModelForTokenClassification
 
 
@@ -54,15 +35,13 @@ def get_framework(model=None):
         If both frameworks are installed and no specific model is provided, defaults to using PyTorch.
     """
     if is_tf_available() and is_torch_available() and model is not None and not isinstance(model, str):
-        # Both framework are available but the use supplied a model class instance.
-        # Try to guess which framework to use from the model classname
+
         framework = 'tf' if model.__class__.__name__.startswith('TF') else 'pt'
     elif not is_tf_available() and not is_torch_available():
         raise ImportError("At least one of TensorFlow 2.0 or PyTorch should be installed. "
                           "To install TensorFlow 2.0, read the instructions at https://www.tensorflow.org/install/ "
                           "To install PyTorch, read the instructions at https://pytorch.org/.")
     else:
-        # framework = 'tf' if is_tf_available() else 'pt'
         framework = 'pt' if is_torch_available() else 'tf'
     return framework
 
@@ -95,16 +74,7 @@ class DefaultArgumentHandler(ArgumentHandler):
 
 
 class PipelineDataFormat:
-    """
-    Base class for all the pipeline supported data format both for reading and writing.
-    Supported data formats currently includes:
-     - JSON
-     - CSV
-     - stdin/stdout (pipe)
 
-    PipelineDataFormat also includes some utilities to work with multi-columns like mapping from datasets columns
-    to pipelines keyword arguments through the `dataset_kwarg_1=dataset_column_1` format.
-    """
     SUPPORTED_FORMATS = ['json', 'csv', 'pipe']
 
     def __init__(self, output_path: Optional[str], input_path: Optional[str], column: Optional[str], overwrite=False):

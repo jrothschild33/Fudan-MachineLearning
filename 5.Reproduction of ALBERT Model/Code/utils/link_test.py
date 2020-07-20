@@ -1,9 +1,3 @@
-""" Link tester.
-
-This little utility reads all the python files in the repository,
-scans for links pointing to S3 and tests the links one by one. Raises an error
-at the end of the scan if at least one link was reported broken.
-"""
 import os
 import re
 import sys
