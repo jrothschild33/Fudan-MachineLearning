@@ -74,7 +74,7 @@ Please write an auto-encoder for the images.
 ## Results
 ![epoch](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/4.Auto%20Encoder/epoch.png)
 
-![result](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/4.Auto%20Encoder/result.png)
+![decoder](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/4.Auto%20Encoder/decoder.png)
 
 # 5. Reproduction of ALBERT Model
 ## Task
