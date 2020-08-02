@@ -1,4 +1,4 @@
-# FDU_Course_ML
+# Fudan University-Machine Learning
 2020 Spring Fudan University Machine Learning Course HW by prof. Chen Qin
 
 # 1. Linear Regression
