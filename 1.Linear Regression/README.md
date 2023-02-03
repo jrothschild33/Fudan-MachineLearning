@@ -1,21 +1,27 @@
 # Homework 1: PM 2.5 prediction
+
 # Task
+
 The datasets are real observations downloaded from the website of the Central Meteorological Administration. Please use linear regression to predict the PM2.5 value.
 
 # Dataset
-* train.csv：The observations of the first 20 days of each month are used for training.
-* test.csv：The observations of 9 consecutive hours are taken from the remaining 10 days of each month. All observations for the first 8 hours are considered as features, and PM2.5 at the 9th hour is used as the answer. A total of 240 unique samples were taken out for testing. Please predict the PM2.5 of these 240 samples according to features.
+
+- train.csv：The observations of the first 20 days of each month are used for training.
+- test.csv：The observations of 9 consecutive hours are taken from the remaining 10 days of each month. All observations for the first 8 hours are considered as features, and PM2.5 at the 9th hour is used as the answer. A total of 240 unique samples were taken out for testing. Please predict the PM2.5 of these 240 samples according to features.
 
 # Submitted files
-* Source code (python)
-* submission.csv: You are required to submit your results according to the format of sampleSubmission.csv.
-* Report.pdf: Please briefly describe your method and configurations for running your code with 1-2 pages.
-* Evaluation: We will evaluate your results with the RMSE (root mean square error) metric. You can sample some data from the training.csv for testing offline.
+
+- Source code (python)
+- submission.csv: You are required to submit your results according to the format of sampleSubmission.csv.
+- Report.pdf: Please briefly describe your method and configurations for running your code with 1-2 pages.
+- Evaluation: We will evaluate your results with the RMSE (root mean square error) metric. You can sample some data from the training.csv for testing offline.
 
 # Implementation
 
 ## 数据处理
-1.导入数据`train.csv`和`test.csv`，发现RAINFALL存在空缺值，以数值0填充空缺值。
+
+1.导入数据`train.csv`和`test.csv`，发现 RAINFALL 存在空缺值，以数值 0 填充空缺值。
+
 ```python
 def readMyFile():   # 读取数据并填充空缺值
     train = pd.read_csv('train.csv', parse_dates=['Date'])
@@ -25,9 +31,9 @@ def readMyFile():   # 读取数据并填充空缺值
     return train, test
 ```
 
-2. 观察`test.csv`中的每日数据维度为18*8，即用144个特征预测第9个小时的PM2.5值，所以需要将`train.csv`中每日数据维度进行处理：
-![dataprocessing1](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/1.Linear%20Regression/dataprocessing1.png)
-![dataprocessing2](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/1.Linear%20Regression/dataprocessing2.png)
+2. 观察`test.csv`中的每日数据维度为 18\*8，即用 144 个特征预测第 9 个小时的 PM2.5 值，所以需要将`train.csv`中每日数据维度进行处理：
+   ![dataprocessing1](https://zhoujianan.com/assets/school/FDU_Course_ML/1.Linear%20Regression/dataprocessing1.png)
+   ![dataprocessing2](https://zhoujianan.com/assets/school/FDU_Course_ML/1.Linear%20Regression/dataprocessing2.png)
 
 3.由于各个特征值之间数值相差较大，无法直接回归，需要对数据进行归一化处理（Standardize）
 
@@ -44,15 +50,17 @@ def myStandardize(file):         # 数据值处理:归一化
     vals = np.array(vals).transpose()  # 将归一化的列表转换成array并转置
     vals = pd.DataFrame(vals)    # 将上一步得到的array变成dataframe
     cols_id = file.iloc[:, :2]   # 提取原文件中前2列编号名称
-    new_file = pd.merge(cols_id, vals, left_index=True, right_index=True)  
+    new_file = pd.merge(cols_id, vals, left_index=True, right_index=True)
     # 将归一化数据与编号合并成新表
     return new_file                 # 查看归一化后的新数据表
 ```
 
 4.提取表格中的数据，并进行降维处理，以方便输入线性模型进行训练：
-   1. 训练x值（train_X）：从归一化后的new_train文件中提取，用于训练模型
-   2. 训练y值（train_Y）：从未处理的train文件中提取，用于训练模型（因为需要预测得到PM2.5的原数值，而不是归一化后的值）
-   3. 测试x值（test_X）：从归一化后的new_test中提取，使用训练好的模型进行预测
+
+1.  训练 x 值（train_X）：从归一化后的 new_train 文件中提取，用于训练模型
+2.  训练 y 值（train_Y）：从未处理的 train 文件中提取，用于训练模型（因为需要预测得到 PM2.5 的原数值，而不是归一化后的值）
+3.  测试 x 值（test_X）：从归一化后的 new_test 中提取，使用训练好的模型进行预测
+
 ```python
 def extractFeaLab(file_1, file_2, file_3):      # 提取训练feature、训练label、测试feature
     my_indexs1 = file_1.iloc[:, 0].drop_duplicates()
@@ -82,6 +90,7 @@ def extractFeaLab(file_1, file_2, file_3):      # 提取训练feature、训练la
 ```
 
 ## 模型构建
+
 1.将处理好的数据输入线性模型：
 $$y_{i}=w_{0}+\sum_{i=1}^{144} w_{i} x_{i}$$
 
@@ -104,16 +113,17 @@ def myLinearReg(train_X_, train_Y_,test_X_):    # 在训练集上训练模型，
     print("RMSE(在验证集中):", sum_erro)
 ```
 
-* 输出结果：
+- 输出结果：
 
-| 类别           | 代码                                                                                           |
+| 类别             | 代码                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------ |
 | 训练集测试及参数 | X_train.shape=(3600, 144),y_train.shape =(3600, 1),X_test.shape=(240, 144),y_test.shape=(240, 1) |
-| 模型参数     | LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)                  |
-| 模型截距     | [134.25134]                                                                                      |
+| 模型参数         | LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)                  |
+| 模型截距         | [134.25134]                                                                                      |
 | RMSE(在验证集中) | [7.1660585]                                                                                      |
 
 2.将模型的训练预测效果可视化：
+
 ```python
 # 画出验证集预测情况
 plt.figure()
@@ -125,9 +135,10 @@ plt.ylabel('PM2.5')
 plt.show()
 ```
 
-![Figure_1](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/1.Linear%20Regression/Figure_1.png)
+![Figure_1](https://zhoujianan.com/assets/school/FDU_Course_ML/1.Linear%20Regression/Figure_1.png)
 
-3.将训练好的模型用于new_test数据集中提取的特征x_i，进行预测PM2.5，并将数据保存至sampleSubmission.csv
+3.将训练好的模型用于 new_test 数据集中提取的特征 x_i，进行预测 PM2.5，并将数据保存至 sampleSubmission.csv
+
 ```python
 # 将训练好的模型用在test数据上进行预测
 y_pred2 = linreg.predict(test_X_)
@@ -149,4 +160,4 @@ result.index.name = 'id'
 result.to_csv('sampleSubmission.csv')
 ```
 
-![Figure_2](https://jrothschild.oss-cn-shanghai.aliyuncs.com/FDU_Course_ML/1.Linear%20Regression/Figure_2.png)
+![Figure_2](https://zhoujianan.com/assets/school/FDU_Course_ML/1.Linear%20Regression/Figure_2.png)
